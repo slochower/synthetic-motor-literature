@@ -1,0 +1,26 @@
+{
+  "date": "August 11, 2017",
+  "authors": [
+    {
+      "github": "slochower",
+      "name": "David R. Slochower",
+      "initials": "DRS",
+      "orcid": "0000-0003-3928-5050",
+      "twitter": "drslochower",
+      "email": "slochower@gmail.com",
+      "affiliations": "Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California, San Diego"
+    }
+  ],
+  "ci_source": {
+    "repo_slug": "slochower/synthetic-motor-literature",
+    "commit": "8f6104e0ad0a39bfcf05d926a78f46efbf556c4a"
+  },
+  "manuscript_stats": {
+    "reference_counts": {
+      "doi": 1,
+      "url": 1,
+      "total": 2
+    },
+    "word_count": 45
+  }
+}
