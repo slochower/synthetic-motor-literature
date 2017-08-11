@@ -12,7 +12,7 @@ title: Synthetic molecular motors
 
 <small><em>
 This manuscript was automatically generated
-from [slochower/synthetic-motor-literature@6f9f2e8](https://github.com/slochower/synthetic-motor-literature/tree/6f9f2e820d97b9a627f2ff7d1c1d9001f4dc9067)
+from [slochower/synthetic-motor-literature@d94a4ed](https://github.com/slochower/synthetic-motor-literature/tree/d94a4edcf80d074ec8005f09ba9f74390920a0f6)
 on August 11, 2017.
 </em></small>
 
@@ -55,3 +55,12 @@ I’m not sure if the driving force for this is thermal or something else.
 Instead of allowing the molecule to switch states based on how close it is to the CI, this reference uses semiclassical trajectory hopping simulations and on-the-fly QM calculations.
 Ah yes, I remember reading this paper before.
 It has the same first author (Kazaryan) and I find both of his papers difficult to follow.
+
+### Mechanism of isomerization
+These papers got me thinking about the exact mechanism underlying the cis/trans isomerization of the double bond.
+[@isrZfXcg]
+[@q3LAChQb]
+
+## "Ultrafast dynamics"
+
+## "Tuning the rotation rate"

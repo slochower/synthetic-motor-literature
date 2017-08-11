@@ -4,6 +4,204 @@
       "date-parts": [
         [
           2017,
+          7,
+          25
+        ]
+      ],
+      "date-time": "2017-07-25T09:13:56Z",
+      "timestamp": 1500974036957
+    },
+    "reference-count": 65,
+    "publisher": "Wiley-Blackwell",
+    "issue": "21",
+    "license": [
+      {
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1",
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              31
+            ]
+          ],
+          "date-time": "2016-08-31T00:00:00Z",
+          "timestamp": 1472601600000
+        },
+        "delay-in-days": 0,
+        "content-version": "tdm"
+      },
+      {
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions",
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              8,
+              31
+            ]
+          ],
+          "date-time": "2016-08-31T00:00:00Z",
+          "timestamp": 1472601600000
+        },
+        "delay-in-days": 0,
+        "content-version": "vor"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100004359",
+        "name": "Vetenskapsrådet",
+        "doi-asserted-by": "crossref",
+        "award": [
+          "621-2011-4353"
+        ]
+      },
+      {
+        "DOI": "10.13039/501100002805",
+        "name": "Carl Tryggers Stiftelse för Vetenskaplig Forskning",
+        "doi-asserted-by": "crossref",
+        "award": [
+          "CTS 15:134"
+        ]
+      },
+      {
+        "name": "Olle Engkvist Foundation",
+        "award": [
+          "2014/734"
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          4
+        ]
+      ]
+    },
+    "DOI": "10.1002/cphc.201600766",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          23
+        ]
+      ],
+      "date-time": "2016-08-23T08:53:01Z",
+      "timestamp": 1471942381000
+    },
+    "page": "3399-3408",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": "Computational Insight to Improve the Thermal Isomerisation Performance of Overcrowded Alkene-Based Molecular Motors through Structural Redesign",
+    "prefix": "10.1002",
+    "volume": "17",
+    "author": [
+      {
+        "given": "Baswanth",
+        "family": "Oruganti",
+        "affiliation": [
+          {
+            "name": "Division of Theoretical Chemistry, IFM; Linköping University; 581 83 Linköping Sweden"
+          }
+        ]
+      },
+      {
+        "given": "Jun",
+        "family": "Wang",
+        "affiliation": [
+          {
+            "name": "Division of Theoretical Chemistry, IFM; Linköping University; 581 83 Linköping Sweden"
+          }
+        ]
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-5847-1196",
+        "authenticated-orcid": false,
+        "given": "Bo",
+        "family": "Durbeej",
+        "affiliation": [
+          {
+            "name": "Division of Theoretical Chemistry, IFM; Linköping University; 581 83 Linköping Sweden"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          31
+        ]
+      ]
+    },
+    "container-title": "ChemPhysChem",
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcphc.201600766",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fcphc.201600766",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2017-06-09T13:17:15Z",
+      "timestamp": 1497014235000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          31
+        ]
+      ]
+    },
+    "references-count": 65,
+    "URL": "https://doi.org/10.1002/cphc.201600766",
+    "relation": {
+      "cites": []
+    },
+    "subject": [
+      "Physical and Theoretical Chemistry",
+      "Atomic and Molecular Physics, and Optics"
+    ],
+    "container-title-short": "ChemPhysChem",
+    "short_url": "https://doi.org/f3rbd5",
+    "id": "q3LAChQb"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2017,
           8,
           10
         ]
@@ -120,6 +318,122 @@
     "container-title-short": "J. Chem. Theory Comput.",
     "short_url": "https://doi.org/d9nx6s",
     "id": "so4s7d25"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          10
+        ]
+      ],
+      "date-time": "2017-08-10T16:54:10Z",
+      "timestamp": 1502384050428
+    },
+    "reference-count": 39,
+    "publisher": "American Chemical Society (ACS)",
+    "issue": "3",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          7
+        ]
+      ]
+    },
+    "DOI": "10.1021/jo402301j",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          1,
+          12
+        ]
+      ],
+      "date-time": "2014-01-12T21:05:41Z",
+      "timestamp": 1389560741000
+    },
+    "page": "927-935",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": "Structural Dynamics of Overcrowded Alkene-Based Molecular Motors during Thermal Isomerization",
+    "prefix": "10.1021",
+    "volume": "79",
+    "author": [
+      {
+        "given": "Arjen",
+        "family": "Cnossen",
+        "affiliation": []
+      },
+      {
+        "given": "Jos C. M.",
+        "family": "Kistemaker",
+        "affiliation": []
+      },
+      {
+        "given": "Tatsuo",
+        "family": "Kojima",
+        "affiliation": []
+      },
+      {
+        "given": "Ben L.",
+        "family": "Feringa",
+        "affiliation": []
+      }
+    ],
+    "member": "316",
+    "container-title": "The Journal of Organic Chemistry",
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://pubs.acs.org/doi/pdf/10.1021/jo402301j",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          22
+        ]
+      ],
+      "date-time": "2017-06-22T05:56:25Z",
+      "timestamp": 1498110985000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          2,
+          7
+        ]
+      ]
+    },
+    "references-count": 39,
+    "alternative-id": [
+      "10.1021/jo402301j"
+    ],
+    "URL": "https://doi.org/10.1021/jo402301j",
+    "relation": {},
+    "subject": [
+      "Organic Chemistry"
+    ],
+    "container-title-short": "J. Org. Chem.",
+    "short_url": "https://doi.org/f5sxcs",
+    "id": "isrZfXcg"
   },
   {
     "indexed": {
