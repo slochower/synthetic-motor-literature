@@ -1,6 +1,6 @@
 # Output directory containing the formatted manuscript
 
-The [`gh-pages`](https://github.com/greenelab/manubot-rootstock/tree/gh-pages) branch hosts the contents of this directory at https://greenelab.github.io/manubot-rootstock/.
+The [`gh-pages`](https://github.com/slochower/synthetic-motor-literature/tree/gh-pages) branch hosts the contents of this directory at https://slochower.github.io/synthetic-motor-literature/.
 
 ## Files
 
@@ -15,4 +15,4 @@ This directory contains the following files, which are mostly ignored on the `ma
 ## Source
 
 The manuscripts in this directory were built from
-[`0a044058f3792927ae75da83396c6522a3990503`](https://github.com/greenelab/manubot-rootstock/commit/0a044058f3792927ae75da83396c6522a3990503).
+[`8f6104e0ad0a39bfcf05d926a78f46efbf556c4a`](https://github.com/slochower/synthetic-motor-literature/commit/8f6104e0ad0a39bfcf05d926a78f46efbf556c4a).
