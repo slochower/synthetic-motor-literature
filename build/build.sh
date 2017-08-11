@@ -36,6 +36,7 @@ pandoc --verbose \
   --css=github-pandoc.css \
   --include-in-header=build/assets/analytics.js \
   --include-after-body=build/assets/anchors.js \
+  --katex \
   --output=output/manuscript.html \
   $INPUT_PATH
 
