@@ -15,4 +15,4 @@ This directory contains the following files, which are mostly ignored on the `ma
 ## Source
 
 The manuscripts in this directory were built from
-[`d94a4edcf80d074ec8005f09ba9f74390920a0f6`](https://github.com/slochower/synthetic-motor-literature/commit/d94a4edcf80d074ec8005f09ba9f74390920a0f6).
+[`7b8be428b1098c82a451060a3dba379e934b3e24`](https://github.com/slochower/synthetic-motor-literature/commit/7b8be428b1098c82a451060a3dba379e934b3e24).
