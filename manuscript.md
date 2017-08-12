@@ -1,7 +1,7 @@
 ---
 author-meta:
 - David R. Slochower
-date-meta: '2017-08-11'
+date-meta: '2017-08-12'
 keywords:
 - work-in-progress
 - markdown
@@ -12,8 +12,8 @@ title: Synthetic molecular motors
 
 <small><em>
 This manuscript was automatically generated
-from [slochower/synthetic-motor-literature@d94a4ed](https://github.com/slochower/synthetic-motor-literature/tree/d94a4edcf80d074ec8005f09ba9f74390920a0f6)
-on August 11, 2017.
+from [slochower/synthetic-motor-literature@7b8be42](https://github.com/slochower/synthetic-motor-literature/tree/7b8be428b1098c82a451060a3dba379e934b3e24)
+on August 12, 2017.
 </em></small>
 
 
@@ -21,12 +21,12 @@ on August 11, 2017.
 
 In this paper, intramolecular (atomic) torque is defined using a classical analog, namely $\mathbf{\tau} = \mathbf{F} \times \mathbf{r}$, and the total torque on the molecule as the vector sum of individual atomic torques.
 The stator is held rigid and the reference point for the torque calculation is the double bond between the stator and the rotor.
-The forces arise from photoexcitation of the double bond -- the so-called [Franck-Condon](https://en.wikipedia.org/wiki/Franck%E2%80%93Condon_principle) state that is referenced in several of Feringa's papers -- where the moolecule is in an *electronic* excited state (S1) but the atomic coordinates are in the ground state (S0).
+The forces arise from photoexcitation of the double bond -- the so-called [Franck-Condon](https://en.wikipedia.org/wiki/Franck%E2%80%93Condon_principle) state that is referenced in several of Feringa's papers -- where the molecule is in an *electronic* excited state (S1) but the atomic coordinates are in the ground state (S0).
 That is, there is strain on the roto due to the photoexcitation and the chirality of the molecule that prevents free rotation.
 I also think this inability to rotate upon excitation is what is meant by the name "overcrowded alkene," although it seems not all ring substituents leads to overcrowding.
 
 I'm not sure there is anything wrong with this approach, per se, but it seems simplistic and that it could miss out a lot of confounding effects; that the stator is modeled as rigid is one assumption, another assumption is zero temperature.
-The authors used DFT to calculate the Franck-Condon state every couple degrees, noting that when the $\ce{C=C}$ double bond is near 85 degrees, the ground state and excited state energies are similar.
+The authors used DFT to calculate the Franck-Condon state every couple degrees, noting that when the $\mathrm{C\raisebox{0.1em}{=}C}$ double bond is near 85 degrees, the ground state and excited state energies are similar.
 Around that angle, I think, they then allow the geometry to switch from the excited state (S1) back to the ground state (S0) and continue the calculation, confirming continuous counterclockwise rotation.
 Taken together, I don’t find this paper very clear or convincing, but I might not be evaluating it fairly.
 
@@ -42,7 +42,7 @@ Using similar methods to the more recent paper, this paper uses B3LYP with 6-31G
 The two helicities differ by about 3 kcal/mol but are separated by a large barrier, around 22 kcal/mol here, governed by the overcrowded alkene. This transition state was found using a QM search method.
 They also modeled the photoisomerization step and the excited state using spin-restricted ensemble-referenced Kohn-Sham (REKS) and time-dependent DFT, in a way that I don’t understand at all -- but they were able to arrive at the following free energy diagram, which is a very helpful visualization!
 
-![The ground and excited state potential energy surfaces calculated in [@N6pRFM85]. 1 eV = 23 kcal/mol. One curious note is that this drawing suggests the most stable state in the excited state is in neither P nor M helicity.](images/Kazaryan-2010-Scheme-3.png){#fig:Kazaryan width="5in"}
+![The ground and excited state potential energy surfaces calculated in [@N6pRFM85]. 1 eV = 23 kcal/mol. One curious note is that this drawing suggests the most stable conformation in the excited state is in between the two helicities.](images/Kazaryan-2010-Scheme-3.png){#fig:Kazaryan width="5in"}
 
 I wish I understood this paper better, because it seems to have a lot of useful pieces of information, including MD simulations.
 But the terminology change from other Feringa papers coupled with the advanced QM methods make it difficult to penetrate. I should give it another go sometime.
@@ -58,9 +58,18 @@ It has the same first author (Kazaryan) and I find both of his papers difficult 
 
 ### Mechanism of isomerization
 These papers got me thinking about the exact mechanism underlying the cis/trans isomerization of the double bond.
-[@isrZfXcg]
+[@isrZfXcg] covers the dynamics of a 2nd generation Feringa-type motor.
+The Feringa motors are found in an *anti*-folded conformation, where the upper half and lower half of the motor are bent in opposite directions relative to the central double bond.
+This folding works to relieve strain on the central double bond.
+The quantum yield for photoisomerization is very low -- about 1%!
+Heating the sample to 70 degrees overnight reverses the photoisomerization.
+
+
 [@q3LAChQb]
 
 ## "Ultrafast dynamics"
 
 ## "Tuning the rotation rate"
+
+## Summary
+Taken together, I think we need to (a) understand what was done in the two Kazaryan papers and then, (b) figure out if those complex steps are necessary to understand the potential energy surface.

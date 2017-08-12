@@ -1,5 +1,5 @@
 {
-  "date": "August 11, 2017",
+  "date": "August 12, 2017",
   "authors": [
     {
       "github": "slochower",
@@ -13,13 +13,13 @@
   ],
   "ci_source": {
     "repo_slug": "slochower/synthetic-motor-literature",
-    "commit": "d94a4edcf80d074ec8005f09ba9f74390920a0f6"
+    "commit": "7b8be428b1098c82a451060a3dba379e934b3e24"
   },
   "manuscript_stats": {
     "reference_counts": {
       "doi": 5,
       "total": 5
     },
-    "word_count": 818
+    "word_count": 924
   }
 }
